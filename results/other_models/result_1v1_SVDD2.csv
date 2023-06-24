@@ -1,0 +1,7 @@
+params,0,1
+"{'pca__n_components': 4, 'svdd__bandwidth': 10}",0.506198347107438,0.4732912119471568
+"{'pca__n_components': 4, 'svdd__bandwidth': 50}",0.5289256198347108,0.4784606547960942
+"{'pca__n_components': 4, 'svdd__bandwidth': 100}",0.5137741046831956,0.4807581849511775
+"{'pca__n_components': 10, 'svdd__bandwidth': 10}",0.59366391184573,0.45203905801263644
+"{'pca__n_components': 10, 'svdd__bandwidth': 50}",0.5433884297520661,0.47731188971855254
+"{'pca__n_components': 10, 'svdd__bandwidth': 100}",0.5165289256198347,0.4807581849511775

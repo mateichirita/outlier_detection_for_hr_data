@@ -1,0 +1,4 @@
+params,0
+"{'gmm__n_components': 10, 'trans__mfcc_components': 0, 'trans__pca_components': 10, 'trans__transformations': []}",0.6195378529041539
+"{'gmm__n_components': 10, 'trans__mfcc_components': 5, 'trans__pca_components': 10, 'trans__transformations': []}",0.8684386800935083
+"{'gmm__n_components': 10, 'trans__mfcc_components': 10, 'trans__pca_components': 10, 'trans__transformations': []}",0.839878169393994
